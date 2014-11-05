@@ -134,5 +134,7 @@ a {
   /* line 73, ../sass/style.scss */
   ul#links {
     margin-top: 30px;
+    margin-bottom: 20px;
   }
+
 }
