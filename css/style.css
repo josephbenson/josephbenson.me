@@ -448,8 +448,8 @@ body.bgrad {
   font-size: 1.3em;
   font-weight: 300;
   line-height: 1.6em;
-  letter-spacing: .04em;
-  color: #9B9B9B;
+  letter-spacing: .02em;
+  color: #616161;
 }
 
 p.header {
@@ -526,3 +526,29 @@ a.dribbble:visited {
   color: #ea4c89;
 }
 
+a.interswitch:link {
+  color: #546E7A;
+  text-decoration: underline;
+}
+
+a.interswitch:visited {
+  color: #546E7A;
+}
+
+a.jobberman:link {
+  color: #546E7A;
+  text-decoration: underline;
+}
+
+a.jobberman:visited {
+  color: #546E7A;
+}
+
+a.vconnect:link {
+  color: #546E7A;
+  text-decoration: underline;
+}
+
+a.vconnect:visited {
+  color: #546E7A;
+}
